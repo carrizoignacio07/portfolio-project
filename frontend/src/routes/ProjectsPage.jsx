@@ -1,6 +1,7 @@
 export const ProjectsPage = () => {
     return (
         <>
+            {/*
             <div className="container">
                 <div className="card-container px-3 p-5">
                     {projects.map((project, index) => {
@@ -18,9 +19,9 @@ export const ProjectsPage = () => {
                             />
                         );
                     })}
-                </div>
+                </div> 
             </div>
-            <Footer />
+            */}
         </>
     );
 };
